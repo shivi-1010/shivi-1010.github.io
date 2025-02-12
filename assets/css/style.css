@@ -219,13 +219,28 @@ dt {
   margin-left: 0.5rem;
 }
 
-ul.side-nav {
+/* ul.side-nav {
   width: 190px;
 }
 
 ul.side-nav li {
   padding: 0;
+} */
+
+ul.side-nav {
+  width: 220px; /* Adjust width if needed */
+  background-color: #ffffff; /* Ensure it’s visible */
+  padding: 20px 10px;
 }
+
+ul.side-nav li a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  gap: 10px;
+  padding: 10px;
+}
+
 
 /* ul.side-nav.fixed a {
   box-sizing: content-box;
