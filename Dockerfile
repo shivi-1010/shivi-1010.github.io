@@ -1,5 +1,11 @@
-FROM nginx:alpine
+# Use an official lightweight web server image
+FROM nginx:latest
 
-COPY . /usr/share/nginx/html
+# Copy website files to NGINX web directory
+ADD . /usr/share/nginx/html
 
+# Expose port 80 for web traffic
 EXPOSE 80
+
+# Start NGINX
+CMD ["nginx", "-g", "daemon off;"]
