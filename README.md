@@ -4,6 +4,9 @@
 This is my first hands-on DevOps project, designed to showcase my practical skills in CI/CD pipeline automation. I built this project to gain real-world experience in DevOps with cloud environments, preparing myself for an internship or an entry-level job in the field. Through this project, I have implemented industry-standard DevOps practices, ensuring seamless development, testing, and deployment of applications in the cloud.
 This project demonstrates a **CI/CD pipeline** using **Jenkins, Docker, and AWS** for automating the deployment of a personal portfolio website. The pipeline follows DevOps best practices by integrating **GitHub webhooks, Jenkins build automation, Docker containerization, and cloud deployment on AWS EC2 instances**.
 
+## **📹 Live Demo Video**
+🎥 **Watch the full demo here:** [Live Demo](https://1drv.ms/v/c/3359ca0e72f1cfbc/EW9rZbQo-LlCj2ATiUNqxRMBNK6ZS1glG-AK0WAmqS0RQw?e=OOgSbY)
+
 ## **🚀 Technologies Used**
 - **Jenkins** (Continuous Integration and Automation)
 - **Docker** (Containerization)
