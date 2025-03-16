@@ -7,6 +7,14 @@ This project demonstrates a **CI/CD pipeline** using **Jenkins, Docker, and AWS*
 ## **📹 Live Demo Video**
 🎥 **Watch the full demo here:** [Live Demo](https://1drv.ms/v/c/3359ca0e72f1cfbc/EW9rZbQo-LlCj2ATiUNqxRMBNK6ZS1glG-AK0WAmqS0RQw?e=OOgSbY)
 
+## 🚀 Website Preview
+<p align="center"> 
+  <kbd>
+    <a href="https://shivi-1010.github.io/" target="_blank"><img src="examples/preview.gif">
+  </a>
+  </kbd>
+</p>
+
 ## **🚀 Technologies Used**
 - **Jenkins** (Continuous Integration and Automation)
 - **Docker** (Containerization)
@@ -150,17 +158,6 @@ This project was inspired and built based on the following learning resources:
 ![GitHub forks](https://img.shields.io/github/forks/shivi-1010/shivi-1010.github.io)
 [![Website Status](https://img.shields.io/badge/website-up-green)](https://shivi-1010.github.io)
 [![LinkedIn](https://img.shields.io/badge/connect-linkedin-blue)](https://www.linkedin.com/in/shivani-varu-1012000/)
-
-
-## 🚀 Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://shivi-1010.github.io/" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p>
-
-⭐ Star this repo if you like my portfolio!
 
 ## 🎯 Features
 ✔️ Fully Responsive Design\
