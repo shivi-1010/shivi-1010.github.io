@@ -715,3 +715,85 @@ small {
   flex-direction: column;
   justify-content: space-between;
 }
+
+.edu-timeline {
+  position: relative;
+  border-left: 3px solid #EFA9AE;
+  margin-left: 20px;
+  padding-left: 40px;
+}
+
+.edu-item {
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.edu-dot {
+  position: absolute;
+  top: 40px;
+  left: -49px;
+  width: 16px;
+  height: 16px;
+  background: #EFA9AE;
+  border-radius: 50%;
+  box-shadow: 0 0 10px #efa9aecc;
+}
+
+.edu-card {
+  background-color: #2E2430;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.5);
+  transition: all 0.3s ease;
+}
+
+.edu-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.6);
+}
+
+.edu-title {
+  font-size: 1.4rem;
+  color: #EFA9AE;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.edu-location {
+  font-size: 0.95rem;
+  color: #d3d3d3;
+  margin-bottom: 10px;
+}
+
+.highlight {
+  margin-top: 15px;
+  color: #EFA9AE;
+  font-weight: 500;
+}
+
+.edu-list {
+  list-style: disc;
+  padding-left: 20px;
+  margin-top: 8px;
+}
+
+.edu-list li {
+  line-height: 1.6;
+}
+
+
+
+
+
+@media (max-width: 600px) {
+  .edu-timeline {
+    border-left: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  .edu-dot {
+    display: none;
+  }
+
+}
